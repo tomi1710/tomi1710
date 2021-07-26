@@ -12,6 +12,7 @@ To see my portfolio project click here [Portfolio project](https://github.com/to
 <br>
 To see the official presentation of the project portfolio click here [Video](https://youtu.be/xrh7JX6kcKo?t=2234) (English language)
 
+
 You can also find other simpler projects based on different technologies such as:
 
 - Python
